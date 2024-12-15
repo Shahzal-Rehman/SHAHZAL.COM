@@ -1,5 +1,7 @@
-all ambassadors 3920
-beta 2529
-pak beta 398
-gold 266
-gold pak 32
+MLSA Upto 15 December 2024
+total 2263
+alpha 192
+gold 242
+beta 1829
+pakistan gold 42
+beta 357
